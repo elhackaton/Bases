@@ -25,7 +25,7 @@ Bases
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackathon.
 
 ### Proyectos
-* Para ayudar a enfocar a los participantes se podrían ofrecer algunas temáticas.
+* La organización del Hackathon propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
 * No se puede empezar con un proyecto previo al hackathon. 
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de 5 minutos a los otros equipos.
