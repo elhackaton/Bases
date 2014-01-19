@@ -22,6 +22,11 @@ Bases
 4. Los grupos serán de un máximo de 4 integrantes.
 5. Todos los proyectos deberán estar bajo una licencia que respete los principios del Software Libre.
 
+### Equipos
+
+Los equipos serán de un máximo de 4 integrantes. Una persona sólo pertenecer a un único equipo.
+
+
 Inscripción
 ------------
 
