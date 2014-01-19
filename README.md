@@ -25,3 +25,6 @@ Bases
 Inscripción
 ------------
 
+
+Patrocinadores
+--------------
