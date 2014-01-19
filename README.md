@@ -18,7 +18,7 @@ Bases
 
 ### Equipos
 * Los equipos serán de un máximo de 4 integrantes. 
-* Una persona sólo pertenecer a un único equipo.
+* Una persona sólo puede pertenecer a un único equipo.
 
 ### Timeline
 * El Hackathon comienza a las **xx:xx** del Sábado y termina a las **xx:xx** del Domingo.
