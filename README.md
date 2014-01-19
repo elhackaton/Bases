@@ -38,11 +38,11 @@ La Organización se reserva el derecho a alterar o modificar el programa del eve
 Bases
 -----
 
-### Equipos
+#### Equipos
 * Los equipos serán de un máximo de 4 integrantes. 
 * Una persona sólo puede pertenecer a un único equipo.
 
-### Timeline
+#### Timeline
 * El Hackathon comienza a las **xx:xx** del Sábado y termina a las **xx:xx** del Domingo.
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackathon.
 
