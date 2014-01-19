@@ -3,8 +3,18 @@ Hackathon Almería 2014
 
 Descripción.
 
-Reglas
+Lugar
+-----
+
+Día
+---
+
+Esquema
 -------
+
+
+Bases
+-----
 
 1. El proyecto debe acabarse en el rango de tiempo que se establece por la organización del hackathon.
 2. No se puede empezar con un proyecto previo al hackathon. El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
