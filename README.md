@@ -16,7 +16,7 @@ bla bla
 Programa
 --------
 
-**Sábado**
+#### Sábado
   * 11:30am - Registration opens at the 2nd floor of AKW
   * 12:15pm - Opening remarks
   * 12:30pm - Hacking begins!
@@ -25,7 +25,7 @@ Programa
   * 6:00pm - Intro to Rails (depending on interest)
   * 8:00pm - Intro to iOS (depending on interest)
 
-**Domingo**
+#### Domingo
   * 12:00am - Thai food
   * 9:30am - Breakfast, sponsored by Google
   * 12:30pm - Laptops down! All Hackathon projects must be marked as "submitted" on HackerLeague in order to be eligible for prizes
@@ -46,7 +46,7 @@ Bases
 * El Hackathon comienza a las **xx:xx** del Sábado y termina a las **xx:xx** del Domingo.
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackathon.
 
-### Proyectos
+#### Proyectos
 * La organización del Hackathon propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
 * No se puede empezar con un proyecto previo al hackathon. 
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
