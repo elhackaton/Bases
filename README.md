@@ -16,15 +16,20 @@ Esquema
 Bases
 -----
 
-1. El proyecto debe acabarse en el rango de tiempo que se establece por la organización del hackathon.
-2. No se puede empezar con un proyecto previo al hackathon. El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
-3. Para ayudar a enfocar a los participantes se podrían ofrecer algunas temáticas.
-4. Los grupos serán de un máximo de 4 integrantes.
-5. Todos los proyectos deberán estar bajo una licencia que respete los principios del Software Libre.
-
 ### Equipos
+* Los equipos serán de un máximo de 4 integrantes. 
+* Una persona sólo pertenecer a un único equipo.
 
-Los equipos serán de un máximo de 4 integrantes. Una persona sólo pertenecer a un único equipo.
+### Timeline
+* El Hackathon comienza a las **xx:xx** del Sábado y termina a las **xx:xx** del Domingo.
+* El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackathon.
+
+### Proyectos
+* Para ayudar a enfocar a los participantes se podrían ofrecer algunas temáticas.
+* No se puede empezar con un proyecto previo al hackathon. 
+* El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
+* Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de 5 minutos a los otros equipos.
+* Todos los proyectos deberán estar bajo una licencia que respete los principios del Software Libre.
 
 
 Inscripción
