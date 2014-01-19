@@ -9,9 +9,10 @@ Lugar
 Día
 ---
 
-Esquema
--------
+Programa
+--------
 
+La Organización se reserva el derecho a alterar o modificar el programa del evento.
 
 Bases
 -----
