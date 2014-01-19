@@ -1,13 +1,17 @@
 Hackathon Almería 2014
 ======================
 
-Descripción.
+bla bla
 
 Lugar
 -----
 
+bla bla
+
 Día
 ---
+
+bla bla
 
 Programa
 --------
@@ -36,6 +40,9 @@ Bases
 Inscripción
 ------------
 
+bla bla
 
 Patrocinadores
 --------------
+
+bla bla
