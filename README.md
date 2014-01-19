@@ -16,6 +16,14 @@ bla bla
 Programa
 --------
 
+Sábado
+  * bla bla
+  * bla bla
+
+Domingo
+  * bla bla 
+  * bla bla
+
 La Organización se reserva el derecho a alterar o modificar el programa del evento.
 
 Bases
