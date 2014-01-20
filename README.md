@@ -8,8 +8,8 @@ Lugar
 
 bla bla
 
-Día
----
+Días
+----
 
 22 y 23 de Marzo de 2014
 
