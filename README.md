@@ -43,7 +43,7 @@ Bases
 * Una persona sólo puede pertenecer a un único equipo.
 
 #### Timeline
-* El Hackathon comienza a las **xx:xx** del Sábado y termina a las **xx:xx** del Domingo.
+* El Hackathon comienza a las **12:00** del Sábado y termina a las **12:00** del Domingo.
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackathon.
 
 #### Proyectos
