@@ -51,7 +51,7 @@ Bases
 * No se puede empezar con un proyecto previo al hackathon. 
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de 5 minutos a los otros equipos.
-* Todos los proyectos deberán estar bajo una licencia que respete los principios del Software Libre.
+* Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
 
 
 Inscripción
