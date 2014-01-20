@@ -11,7 +11,7 @@ bla bla
 Día
 ---
 
-bla bla
+22 y 23 de Marzo de 2014
 
 Programa
 --------
