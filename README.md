@@ -53,6 +53,8 @@ Bases
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de 5 minutos a los otros equipos.
 * Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
 
+#### Tecnología
+* La tecnología utilizada por cada equipo será de libre elección pero deberán utilizar al menos una tecnología de Google. 
 
 Inscripción
 ------------
