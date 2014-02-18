@@ -1,6 +1,10 @@
 El Hackatón
 ===========
 
+<p align="center">
+  <a href="http://elhackaton.com"><img src="http://josejuansanchez.github.io/images/logo_elhackaton.png" /></a>
+</p>
+
 **28 horas desarrollando proyectos para cambiar el mundo**.
 
 Queremos reunir a 50 profesionales y estudiantes del mundo del diseño, la creación de contenidos y el desarrollo de software en un mismo espacio. Juntos, tendrán dos intensos días para crear proyectos verdaderamente transformadores.
