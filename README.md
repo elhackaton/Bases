@@ -74,12 +74,20 @@ Organiza
 
 Colabora
 --------
-* [PITA](http://www.pitalmeria.es)
 * [Geekia](http://www.geekia.es)
 * [La Oficina Cultural](http://laoficinacultural.org)
+* [vmedia](http://www.vmedia.es)
 
 
 Patrocinadores
 --------------
 
-bla bla
+* [Tecnilógica](http://tecnilogica.com)
+* [O'Reilly](http://www.oreilly.com)
+* [Bitnami](http://bitnami.com)
+* [La Virgulilla](https://twitter.com/lavirgulillaes/)
+* [mememtum](http://mememtum.com)
+* [Punto Nodal](http://www.linkedin.com/company/soloraf---punto-nodal-s.l./products?trk=top_nav_products)
+* [CPITIA](http://www.cpitia.org)
+* [Idiria](http://idiria.com)
+* [Kirau](http://kirau.com)
