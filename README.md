@@ -18,22 +18,7 @@ Días
 Programa
 --------
 
-#### Sábado
-  * 11:30am - Registration opens at the 2nd floor of AKW
-  * 12:15pm - Opening remarks
-  * 12:30pm - Hacking begins!
-  * 1:15pm - Twilio API demo
-  * 4:00 or 5:00pm - Pizza and drinks, sponsored by Microsoft
-  * 6:00pm - Intro to Rails (depending on interest)
-  * 8:00pm - Intro to iOS (depending on interest)
-
-#### Domingo
-  * 12:00am - Thai food
-  * 9:30am - Breakfast, sponsored by Google
-  * 12:30pm - Laptops down! All Hackathon projects must be marked as "submitted" on HackerLeague in order to be eligible for prizes
-  * 12:45pm - Lunch and Hack presentations - 5 minutes/team
-  * 2:00pm - Judging
-  * 2:30pm - Winners announced; go home and sleep!
+Puede consultar el programa en la [web oficial](http://elhackaton.com/#programa).
 
 La Organización se reserva el derecho a alterar o modificar el programa del evento.
 
