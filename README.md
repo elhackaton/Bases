@@ -1,12 +1,14 @@
-Hackathon Almería 2014
-======================
+El Hackatón
+===========
 
-bla bla
+**28 horas desarrollando proyectos para cambiar el mundo**.
+
+Queremos reunir a 50 profesionales y estudiantes del mundo del diseño, la creación de contenidos y el desarrollo de software en un mismo espacio. Juntos, tendrán dos intensos días para crear proyectos verdaderamente transformadores.
 
 Lugar
 -----
 
-bla bla
+El evento tendrá lugar en Almería en un lugar muy céntrico de la capital.
 
 Días
 ----
@@ -59,7 +61,7 @@ Bases
 Inscripción
 ------------
 
-bla bla
+
 
 Organiza
 --------
