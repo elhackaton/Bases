@@ -1,9 +1,9 @@
-El Hackatón
-===========
-
 <p align="center">
   <a href="http://elhackaton.com"><img src="http://josejuansanchez.github.io/images/logo_elhackaton.png" /></a>
 </p>
+
+El Hackatón
+===========
 
 **28 horas desarrollando proyectos para cambiar el mundo**.
 
