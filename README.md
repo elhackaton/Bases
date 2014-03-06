@@ -42,7 +42,7 @@ Bases
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackatón.
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le puedan plantear el resto de equipos.
 * Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
-* Todos los proyectos deben incluir un archivo "README.md" que incluya la siguiente información: Componentes del Equipo, Descripción del proyecto, Especificaciones Técnicas y el tipo de Licencia bajo la que se libera el proyecto.  
+* Todos los proyectos deben incluir un archivo ```README.md``` que incluya la siguiente información: Componentes del Equipo, Descripción del proyecto, Especificaciones Técnicas y el tipo de Licencia bajo la que se libera el proyecto.  
 
 #### Tecnología
 * La tecnología utilizada por cada equipo será de libre elección pero deberán utilizar al menos una tecnología de Google. 
