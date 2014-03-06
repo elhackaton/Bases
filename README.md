@@ -34,15 +34,13 @@ Bases
 * Una persona sólo puede pertenecer a un único equipo.
 * Los equipos se formarán el mismo día del evento.
 
-#### Timeline
-* El Hackathon comienza a las **10:00** del Sábado y termina a las **10:00** del Domingo.
-* El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackathon.
-
 #### Proyectos
+* La fase de desarrollo de proyectos comienza a las **10:00** del Sábado y termina a las **10:00** del Domingo.
+* El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackatón.
 * La organización del Hackathon propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
-* No se puede empezar con un proyecto previo al hackathon. 
-* El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackathon.
-* Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de *5* minutos a los otros equipos.
+* No se puede empezar con un proyecto previo al hackatón. 
+* El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackatón.
+* Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver
 * Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
 
 #### Tecnología
