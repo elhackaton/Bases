@@ -67,13 +67,23 @@ Colabora
 * [Geekia](http://www.geekia.es)
 * [La Oficina Cultural](http://laoficinacultural.org)
 * [vmedia](http://www.vmedia.es)
-
+* [Escuela de Artes y Oficios de Almería](http://www.eaalmeria.es)
 
 Patrocinadores
 --------------
 
+### Oro
 * [Tecnilógica](http://tecnilogica.com)
+* [Cajamar](http://cajamar.es)
+
+### Plata
+* [Redbility](http://redbility.com)
+* [Ducksboard](https://ducksboard.com)
 * [O'Reilly](http://www.oreilly.com)
+* [bq](http://www.bqreaders.com)
+* [GitHub](http://github.com)
+
+### Bronce
 * [Bitnami](http://bitnami.com)
 * [La Virgulilla](https://twitter.com/lavirgulillaes/)
 * [mememtum](http://mememtum.com)
