@@ -30,7 +30,7 @@ Bases
 -----
 
 #### Equipos
-* Los equipos serán de un máximo de 4 integrantes. 
+* Los equipos serán de un máximo de 4 integrantes, pudiendo existir equipos de 3, 2 o 1 persona.
 * Una persona sólo puede pertenecer a un único equipo.
 * Los equipos se formarán el mismo día del evento.
 
