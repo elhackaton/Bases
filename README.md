@@ -29,6 +29,8 @@ La Organización se reserva el derecho a alterar o modificar el programa del eve
 Bases
 -----
 
+{{md  bases.md}} 
+
 #### Equipos
 * Los equipos serán de un máximo de 4 integrantes, pudiendo existir equipos de 3, 2 o 1 persona.
 * Una persona sólo puede pertenecer a un único equipo.
