@@ -45,13 +45,13 @@ Bases
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackatón.
 * Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
 * Todos los proyectos deben incluir un archivo ```README.md``` que incluya la siguiente información: 
-  * Nombre del proyecto
-  * Componentes del equipo
-  * Descripción del proyecto
-  * Estado del desarrollo actual
-  * Especificaciones técnicas 
+  * Nombre del proyecto.
+  * Componentes del equipo.
+  * Descripción del proyecto.
+  * Estado del desarrollo actual.
+  * Especificaciones técnicas. 
   * Tipo de licencia bajo la que se libera el proyecto.
-  * También se podrá adjuntar cualquier otra información que el participante considere oportuna: screenshoot, etc.
+  * También se podrá adjuntar cualquier otra información que el equipo considere oportuna: screenshoot, etc.  
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
