@@ -48,7 +48,7 @@ Bases
   * componentes del equipo, 
   * descripción del proyecto, 
   * especificaciones técnicas 
-  * tipo de licencia bajo la que se libera el proyecto. 
+  * tipo de licencia bajo la que se libera el proyecto.   
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
