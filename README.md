@@ -29,8 +29,6 @@ La Organización se reserva el derecho a alterar o modificar el programa del eve
 Bases
 -----
 
-{{md  bases.md }} 
-
 #### Equipos
 * Los equipos serán de un máximo de 4 integrantes, pudiendo existir equipos de 3, 2 o 1 persona.
 * Una persona sólo puede pertenecer a un único equipo.
@@ -57,7 +55,6 @@ Bases
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
-
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le puedan plantear el resto de equipos.
 
 Los participantes deberán traer sus propios equipos (recomendablemente portátiles). No olvidar los cargadores y cables ethernet en caso de que sea necesario.
