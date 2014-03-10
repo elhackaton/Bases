@@ -44,9 +44,11 @@ Bases
 
 #### Premios
 * Primer premio:
-  * El primer premio consistirá en ... para cada miembro del equipo ganador por valor de *X €*.
+  * Un [bq Aquaris 5 HD](http://www.bqreaders.com/productos/aquaris-5-hd.html) para cada miembro del equipo.
+  * Un [Ducksboard](https://ducksboard.com/) vitalicio para cada miembro del equipo.
+  * Una cuenta Silver de [GitHub](https://github.com/) durante una año para el equipo.
 * Segundo premio:
-  * El segundo premio consistirá en ... para cada miembro del equipo ganador por valor de *X €*.
+  * Una cuenta Bronze de [GitHub](https://github.com/) durante una año para el equipo.
 
 #### Jurado
 * Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
