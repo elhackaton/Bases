@@ -50,7 +50,7 @@ Bases
   * Estado del desarrollo actual.
   * Especificaciones técnicas. 
   * Tipo de licencia bajo la que se libera el proyecto.
-  * También se podrá adjuntar cualquier otra información que el equipo considere oportuna: screenshoot, etc.  
+  * También se podrá adjuntar cualquier otra información que el equipo considere oportuna: screenshoots, etc.  
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
