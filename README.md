@@ -44,9 +44,9 @@ Bases
 
 #### Premios
 * Primer premio:
-  * El primer premio consistirá en ... para cada miembro del equipo ganador.
+  * El primer premio consistirá en ... para cada miembro del equipo ganador por valor de *X €*.
 * Segundo premio:
-  * El segundo premio consistirá en ... para cada miembro del equipo ganador.
+  * El segundo premio consistirá en ... para cada miembro del equipo ganador por valor de *X €*.
 
 #### Jurado
 * Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
