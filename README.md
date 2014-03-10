@@ -55,6 +55,8 @@ Bases
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
+
+#### Jurado
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le puedan plantear el resto de equipos.
 
 Los participantes deberán traer sus propios equipos (recomendablemente portátiles). No olvidar los cargadores y cables ethernet en caso de que sea necesario.
