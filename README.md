@@ -71,7 +71,7 @@ Colabora
 * [Geekia](http://www.geekia.es)
 * [La Oficina Cultural](http://laoficinacultural.org)
 * [vmedia](http://www.vmedia.es)
-* [Escuela de Artes y Oficios de Almería](http://www.eaalmeria.es)
+* [Escuela de Arte de Almería](http://www.eaalmeria.es)
 
 Patrocinadores
 --------------
