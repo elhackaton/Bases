@@ -55,7 +55,7 @@ Bases
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
-* El primer premio consistirá en **** para el equipo ganador.
+* El primer premio consistirá en **** para cada miembro del equipo ganador.
 * El primer premio podría complementarse con una beca financiada por **** para finalizar el desarrollo del proyecto.
 
 #### Jurado
