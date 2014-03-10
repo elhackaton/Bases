@@ -65,7 +65,7 @@ Bases
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le puedan plantear el resto de equipos.
 
 #### Material
-* Los participantes deberán traer sus propios ordenadores. No olvidar los cargadores y cables ethernet en caso de que sea necesario.
+* Los participantes deberán traer sus propios ordenadores.
 
 
 Organiza
