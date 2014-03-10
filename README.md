@@ -19,13 +19,6 @@ Días
 
 22 y 23 de Marzo de 2014
 
-Programa
---------
-
-Puede consultar el programa en la [web oficial](http://elhackaton.com/#programa).
-
-La Organización se reserva el derecho a alterar o modificar el programa del evento.
-
 Bases
 -----
 
@@ -67,6 +60,7 @@ Bases
 #### Material
 * Los participantes deberán traer sus propios ordenadores.
 
+La Organización se reserva el derecho a alterar o modificar las bases del evento.
 
 Organiza
 --------
