@@ -58,7 +58,7 @@ Bases
   * El primer premio consistirá en ... para cada miembro del equipo ganador.
   * El primer premio podría complementarse con una beca financiada por ... para finalizar el desarrollo del proyecto.
 * Segundo premio:
-  * ...
+  * El segundo premio consistirá en ... para cada miembro del equipo ganador.
 
 #### Jurado
 * Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
