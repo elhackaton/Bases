@@ -56,8 +56,8 @@ Bases
 
 #### Premios
 * Primer premio:
-  * El primer premio consistirá en **** para cada miembro del equipo ganador.
-  * El primer premio podría complementarse con una beca financiada por **** para finalizar el desarrollo del proyecto.
+  * El primer premio consistirá en ... para cada miembro del equipo ganador.
+  * El primer premio podría complementarse con una beca financiada por ... para finalizar el desarrollo del proyecto.
 * Segundo premio:
   * ...
 
