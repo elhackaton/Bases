@@ -24,7 +24,7 @@ Bases
 * Los equipos se formarán el mismo día del evento a gusto de los integrantes.
 
 #### Tecnología
-* La tecnología utilizada por cada equipo será de libre elección pero deberán utilizar al menos una tecnología de Google. 
+* La tecnología utilizada por cada equipo será de libre elección.
 
 #### Proyectos
 * La organización del Hackatón propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
@@ -45,7 +45,6 @@ Bases
 #### Premios
 * Primer premio:
   * El primer premio consistirá en ... para cada miembro del equipo ganador.
-  * El primer premio podría complementarse con una beca financiada por ... para finalizar el desarrollo del proyecto.
 * Segundo premio:
   * El segundo premio consistirá en ... para cada miembro del equipo ganador.
 
