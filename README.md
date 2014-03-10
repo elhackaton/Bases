@@ -56,7 +56,7 @@ Bases
 
 #### Premios
 * El primer premio consistirá en **** para el equipo ganador.
-* En función de la calidad del proyecto presentado, el premio podría complementarse con una beca financiada por ****.
+* El primer premio podría complementarse con una beca financiada por **** para finalizar el desarrollo del proyecto.
 
 #### Jurado
 * Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
