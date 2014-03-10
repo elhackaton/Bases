@@ -59,9 +59,8 @@ Bases
 * En función de la calidad del proyecto presentado, el premio podría complementarse con una beca financiada por ****.
 
 #### Jurado
-* Los propios participantes actuarán como jurado de los proyectos del resto de equipos.
+* Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
 * Una vez finalizada la fase de programación los equipos serán llamados al azar a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le puedan plantear el resto de equipos.
-* Una vez finalizada la fase de presentación/demostración cada participante podrá evaluar los proyectos del resto de equipos.
 
 #### Material
 * Los participantes deberán traer sus propios ordenadores. No olvidar los cargadores y cables ethernet en caso de que sea necesario.
