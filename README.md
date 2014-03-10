@@ -46,9 +46,11 @@ Bases
 * Primer premio:
   * Un [bq Aquaris 5 HD](http://www.bqreaders.com/productos/aquaris-5-hd.html) para cada miembro del equipo.
   * Un [Ducksboard](https://ducksboard.com/) vitalicio para cada miembro del equipo.
-  * Una cuenta Silver de [GitHub](https://github.com/) durante una año para el equipo.
+  * Una organización Silver de [GitHub](https://github.com/) durante una año para el equipo.
 * Segundo premio:
-  * Una cuenta Bronze de [GitHub](https://github.com/) durante una año para el equipo.
+  * Una organización Bronze de [GitHub](https://github.com/) durante una año para el equipo.
+* Tercer premio:
+  * Una organización Bronze de [GitHub](https://github.com/) durante 6 meses para el equipo.
 
 #### Jurado
 * Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
