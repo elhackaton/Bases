@@ -10,7 +10,7 @@ El Hackatón
 Queremos reunir a 50 profesionales y estudiantes del mundo del diseño, la creación de contenidos y el desarrollo de software en un mismo espacio. Juntos, tendrán dos intensos días para crear proyectos verdaderamente transformadores.
 
 #### Lugar
-El evento tendrá lugar en Almería en la [Escuela de Artes y Oficios de Almería](http://www.eaalmeria.es).   
+El evento tendrá lugar en Almería en la [Escuela de Arte de Almería](http://www.eaalmeria.es).   
 
 #### Días
 22 y 23 de Marzo de 2014
