@@ -31,7 +31,9 @@ Bases
 * La fase de desarrollo de proyectos comienza a las **10:00** del Sábado y termina a las **10:00** del Domingo.
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackatón.
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollada dentro del tiempo del Hackatón.
-* Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
+* Todos los proyectos serán liberados en un repositorio público y deberán estar estar publicados con al menos una de las siguientes licencias libres para software [GPL3](http://www.gnu.org/licenses/gpl-3.0.html), [GPL2](http://www.gnu.org/licenses/gpl-2.0.html), [LGPL3](http://www.gnu.org/licenses/lgpl-3.0.html), [LGPL2.1](http://www.gnu.org/licenses/lgpl-2.1.html), [AGPL3](http://www.gnu.org/licenses/agpl-3.0.html), 
+[Apache2](http://opensource.org/licenses/Apache-2.0), [BSD3](http://opensource.org/licenses/BSD-3-Clause), [BSD2](http://opensource.org/licenses/BSD-2-Clause) o [MIT](http://opensource.org/licenses/MIT)
+y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) o [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 * Todos los proyectos deben incluir un archivo ```README.md``` que incluya la siguiente información: 
   * Nombre del proyecto.
   * Componentes del equipo.
