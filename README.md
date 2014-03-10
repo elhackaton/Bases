@@ -59,10 +59,6 @@ Bases
 
 Los participantes deberán traer sus propios equipos (recomendablemente portátiles). No olvidar los cargadores y cables ethernet en caso de que sea necesario.
 
-Inscripción
-------------
-
-
 
 Organiza
 --------
