@@ -41,7 +41,7 @@ Bases
 * La organización del Hackatón propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
 * La fase de desarrollo de proyectos comienza a las **10:00** del Sábado y termina a las **10:00** del Domingo.
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackatón.
-* El desarrollo de la solución propuesta debe estar exclusivamente desarrollado dentro del tiempo del hackatón.
+* El desarrollo de la solución propuesta debe estar exclusivamente desarrollada dentro del tiempo del Hackatón.
 * Todos los proyectos serán liberados en un repositorio público y deberán estar bajo una licencia que respete los principios del Software Libre.
 * Todos los proyectos deben incluir un archivo ```README.md``` que incluya la siguiente información: 
   * Nombre del proyecto.
