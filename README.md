@@ -48,9 +48,9 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
 * Primer premio:
   * Un [bq Aquaris 5 HD](http://www.bqreaders.com/productos/aquaris-5-hd.html) para cada miembro del equipo.
   * Un [Ducksboard](https://ducksboard.com/) vitalicio para cada miembro del equipo.
-  * Una organización Silver de [GitHub](https://github.com/) durante una año para el equipo.
+  * Una organización Silver de [GitHub](https://github.com/) durante un año para el equipo.
 * Segundo premio:
-  * Una organización Bronze de [GitHub](https://github.com/) durante una año para el equipo.
+  * Una organización Bronze de [GitHub](https://github.com/) durante un año para el equipo.
 * Tercer premio:
   * Una organización Bronze de [GitHub](https://github.com/) durante 6 meses para el equipo.
 
