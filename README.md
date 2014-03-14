@@ -78,6 +78,7 @@ Colabora
 * [La Oficina Cultural](http://laoficinacultural.org)
 * [vmedia](http://www.vmedia.es)
 * [Escuela de Arte de Almería](http://www.eaalmeria.es)
+* [Hoja de Router](http://www.hojaderouter.com/)
 
 Patrocinadores
 --------------
@@ -92,6 +93,7 @@ Patrocinadores
 * [O'Reilly](http://www.oreilly.com)
 * [bq](http://www.bqreaders.com)
 * [GitHub](http://github.com)
+* [wepoke](http://wepoke.com/)
 
 ### Bronce
 * [Bitnami](http://bitnami.com)
