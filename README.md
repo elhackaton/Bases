@@ -79,6 +79,7 @@ Colabora
 * [vmedia](http://www.vmedia.es)
 * [Escuela de Arte de Almería](http://www.eaalmeria.es)
 * [Hoja de Router](http://www.hojaderouter.com/)
+* [Almería Tendencias](http://almeriatendencias.com/)
 
 Patrocinadores
 --------------
@@ -103,3 +104,4 @@ Patrocinadores
 * [CPITIA](http://www.cpitia.org)
 * [Idiria](http://idiria.com)
 * [Kirau](http://kirau.com)
+* [Camaloon](http://camaloon.es/)
