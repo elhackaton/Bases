@@ -13,13 +13,13 @@ Queremos reunir a 50 profesionales y estudiantes del mundo del diseño, la creac
 El evento tendrá lugar en la [Escuela de Arte de Almería](http://www.eaalmeria.es).   
 
 #### Días
-22 y 23 de Marzo de 2014
+22 y 23 de marzo de 2014
 
 Bases
 -----
 
 #### Equipos
-* Los equipos serán de un máximo de 4 integrantes, pudiendo existir equipos de 3 personas.
+* Los equipos estarán formados por 3 o cuatro personas.
 * Una persona sólo puede pertenecer a un único equipo.
 * Los equipos se formarán el mismo día del evento a gusto de los integrantes.
 
@@ -27,11 +27,11 @@ Bases
 * La tecnología utilizada por cada equipo será de libre elección.
 
 #### Proyectos
-* La organización del Hackatón propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
-* La fase de desarrollo de proyectos comienza a las **10:00** del Sábado y termina a las **10:00** del Domingo.
-* El proyecto debe acabarse en el rango de tiempo establecido por la organización del Hackatón.
+* La organización de El Hackatón propondrá la temática de los proyectos que se van a desarrollar el mismo día del evento.
+* La fase de desarrollo de proyectos comienza a las **10:00** del Sábado y termina a las **10:00** del domingo.
+* El proyecto debe acabarse en el rango de tiempo establecido por la organización de El Hackatón.
 * El desarrollo de la solución propuesta debe estar exclusivamente desarrollada dentro del tiempo del Hackatón.
-* Todos los proyectos serán liberados en un repositorio público y deberán estar estar publicados con al menos una de las siguientes licencias libres para software [GPL3](http://www.gnu.org/licenses/gpl-3.0.html), [GPL2](http://www.gnu.org/licenses/gpl-2.0.html), [LGPL3](http://www.gnu.org/licenses/lgpl-3.0.html), [LGPL2.1](http://www.gnu.org/licenses/lgpl-2.1.html), [AGPL3](http://www.gnu.org/licenses/agpl-3.0.html), 
+* Todos los proyectos serán liberados en un repositorio público y deberán estar estar publicados con al menos una de las siguientes licencias libres para software: [GPL3](http://www.gnu.org/licenses/gpl-3.0.html), [GPL2](http://www.gnu.org/licenses/gpl-2.0.html), [LGPL3](http://www.gnu.org/licenses/lgpl-3.0.html), [LGPL2.1](http://www.gnu.org/licenses/lgpl-2.1.html), [AGPL3](http://www.gnu.org/licenses/agpl-3.0.html), 
 [Apache2](http://opensource.org/licenses/Apache-2.0), [BSD3](http://opensource.org/licenses/BSD-3-Clause), [BSD2](http://opensource.org/licenses/BSD-2-Clause) o [MIT](http://opensource.org/licenses/MIT)
 y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) o [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 * Todos los proyectos deben incluir un archivo ```README.md``` que incluya la siguiente información: 
@@ -40,22 +40,22 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
   * Descripción del proyecto.
   * Estado del desarrollo actual.
   * Especificaciones técnicas. 
-  * Tipo de licencia bajo la que se libera el proyecto.
-  * También se podrá adjuntar cualquier otra información que el equipo considere oportuna: screenshoots, etc.  
+  * Licencia bajo cuyos auspicios se publica el proyecto.
+  * También se podrá adjuntar cualquier otra información que el equipo considere oportuna: pantallazos, etc.  
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
 * Primer premio:
   * Un [bq Aquaris 5 HD](http://www.bqreaders.com/productos/aquaris-5-hd.html) para cada miembro del equipo.
   * Un [Ducksboard](https://ducksboard.com/) vitalicio para cada miembro del equipo.
-  * Una organización Silver de [GitHub](https://github.com/) durante un año para el equipo.
+  * Una organización _Silver_ de [GitHub](https://github.com/) durante un año para el equipo.
 * Segundo premio:
-  * Una organización Bronze de [GitHub](https://github.com/) durante un año para el equipo.
+  * Una organización _Bronze_ de [GitHub](https://github.com/) durante un año para el equipo.
 * Tercer premio:
-  * Una organización Bronze de [GitHub](https://github.com/) durante 6 meses para el equipo.
+  * Una organización _Bronze_ de [GitHub](https://github.com/) durante 6 meses para el equipo.
 
 #### Jurado
-* Los propios participantes actuarán como jurado valorando con sus votos los proyectos realizados por el resto de equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
+* Los propios participantes actuarán como jurado valorando con sus votos los proyectos de los demás equipos. En caso de empate será la organización del evento la que decida el proyecto ganador.
 * Una vez finalizada la fase de programación los equipos serán llamados [al azar](http://www.random.org/lists/) a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le puedan plantear el resto de equipos.
 
 #### Material
