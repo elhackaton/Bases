@@ -13,7 +13,7 @@ Queremos reunir a 64 profesionales y estudiantes del mundo del diseño, la creac
 El evento tendrá lugar en la [Escuela de Arte de Almería](http://www.eaalmeria.es).   
 
 #### Días
-Del 1 al 4 de Octubre de 2014.
+Del 1 al 4 de Octubre de 2015.
 El trabajo se realizará los días 3 y 4 de Octubre.
 
 Bases
