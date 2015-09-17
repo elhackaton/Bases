@@ -7,28 +7,28 @@ El Hackatón 2015
 
 **28 horas desarrollando proyectos para cambiar el mundo**.
 
-Queremos reunir a 64 profesionales y estudiantes del mundo del diseño, la creación de contenidos, el desarrollo de software y makers en un mismo espacio. Juntos, tendrán dos intensos días para crear proyectos verdaderamente transformadores. Este año se centrará en el uso de "El Internet de las cosas".
+Queremos reunir a **64** profesionales y estudiantes del mundo del **diseño**, la **creación de contenidos**, el **desarrollo de software** y **makers** en un mismo espacio. Juntos, tendrán dos intensos días para crear proyectos verdaderamente transformadores, que estén relacionados con el **«Internet de las cosas»**.
 
 #### Lugar
 El evento tendrá lugar en la [Escuela de Arte de Almería](http://www.eaalmeria.es).   
 
 #### Días
 Del 1 al 4 de Octubre de 2015.
-El trabajo se realizará los días 3 y 4 de Octubre.
 
 Bases
 -----
 
 #### Equipos
-* Los equipos estarán formados por cuatro personas.
+* Los equipos estarán formados por **cuatro personas**.
 * Una persona sólo puede pertenecer a un único equipo.
 * Los equipos se formarán el mismo día del evento a gusto de los integrantes.
 
 #### Tecnología
-* La tecnología utilizada por cada equipo será de libre elección.
+* La tecnología utilizada por cada equipo será **de libre elección**.
 
 #### Proyectos
-* La organización de El Hackatón propondrá la temática de los proyectos que se van a desarrollar; proponiendo una serie de retos.
+* La organización de El Hackatón propondrá la temática de los proyectos que se van a desarrollar. 
+* Los retos propuestos se harán públicos antes del evento.
 * La fase de desarrollo de proyectos comienza a las **11:00** del Sábado y termina a las **11:00** del domingo.
 * El proyecto debe acabarse en el rango de tiempo establecido por la organización de El Hackatón.
 * Todos los proyectos serán liberados en un repositorio público y deberán estar estar publicados con al menos una de las siguientes licencias libres para software: [GPL3](http://www.gnu.org/licenses/gpl-3.0.html), [GPL2](http://www.gnu.org/licenses/gpl-2.0.html), [LGPL3](http://www.gnu.org/licenses/lgpl-3.0.html), [LGPL2.1](http://www.gnu.org/licenses/lgpl-2.1.html), [AGPL3](http://www.gnu.org/licenses/agpl-3.0.html), 
@@ -45,20 +45,34 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
   [Ejemplo de archivo README.md](https://github.com/elhackaton/doc/blob/master/sampleproject/README.md). 
 
 #### Premios
+##### Primer, segundo y tercer premio
 * Primer premio:
-  * Una camara digital [Xiaomi Yi](http://www.amazon.es/dp/B00UFC48B0/ref=asc_df_B00UFC48B028865110/?tag=googshopes-21&creative=24526&creativeASIN=B00UFC48B0&linkCode=df0) para cada integrante del grupo
+  * Una camara digital [Xiaomi Yi](http://www.mi.com/yicamera/) para cada miembro del equipo.
 * Segundo premio:
-  * Un [ChromeCast](https://www.google.es/chrome/devices/chromecast/) Para cada integrante del grupo.
+  * Un [ChromeCast](https://www.google.es/chrome/devices/chromecast/) para cada miembro del equipo.
 * Tercer premio:
-  * Una pulsera inteligente [MiBand](http://www.mi.com/en/miband/) para cada integrante del grupo
-* Un premio especial cedido por IBM [Parrot AR Drone 2.0 Elite](http://ardrone2.parrot.com/); al proyecto que mejor utilice la tecnología de BlueMix.
+  * Una pulsera inteligente [Mi Band](http://www.mi.com/en/miband/) para cada miembro del equipo.
+
+##### Premio al uso más innovador de Bluemix
+
+* IBM entregará un [Parrot AR Drone 2.0 Elite](http://ardrone2.parrot.com/) al equipo ganador por el uso más innovador de Bluemix.
+* 3 horas de mentorización de la mano de [Andy Standford-Clark](https://twitter.com/andysc).
+
+##### Obsequios para todos los participantes
+
+* Se darán cuentas trial de Bluemix extendidas a un total de 90 días a todos los participantes.
+* IBM aportará una **Raspberry Pi 2** y una **SD Card** a cada equipo que realice su desarrollo sobre la plataforma Bluemix.
 
 #### Jurado
+* Una vez finalizada la fase de programación los equipos serán llamados [al azar](http://www.random.org/lists/) a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le pueda plantear el jurado.
 * Los ganadores serán decididos por un jurado que estará representado por representantes de los patrocinadores, empresas locales y profesorado de la Universidad.
 
+
 #### Material
-* Los participantes deberán traer sus propios ordenadores.
-* Los equipos que utilicen BlueMix tendrá una raspberry Pi 2 con una tarjeta SD.
+* Los participantes deberán traer sus propios ordenadores y el material que necesiten oportuno para realizar sus proyectos.
+* No existe ningún tipo de limitación en el uso de material hardware.
+* IBM aportará una **Raspberry Pi 2** y una **SD Card** a cada equipo que realice su desarrollo sobre la plataforma Bluemix.
+
 
 La Organización se reserva el derecho a alterar o modificar las bases del evento.
 
@@ -70,7 +84,7 @@ Colabora
 --------
 * [Geekia](http://www.geekia.es)
 * [UNIA](http://unia.ual.es) 
-* [Guadatech](http://guadatech.blogspot.com.es/)
+* [Guadatech](http://guadatech.blogspot.com.es)
 * [Escuela de Arte de Almería](http://www.eaalmeria.es)
 
 
