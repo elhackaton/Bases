@@ -93,6 +93,7 @@ Patrocinadores
 
 ### Oro
 * [Cajamar](http://cajamar.es)
+* [IBM](http://www.ibm.es)
 
 ### Bronce
 * [Aura Tecnológica](http://auratecnologica.com)
