@@ -62,6 +62,8 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
 
 * Se darán cuentas trial de Bluemix extendidas a un total de 90 días a todos los participantes.
 * IBM aportará una **Raspberry Pi 2** y una **SD Card** a cada equipo que realice su desarrollo sobre la plataforma Bluemix.
+* Cajamar aportará un **Kit de IoT Cajamar** a cada equipo.
+* Camiseta, chapas, pegatinas, etc.
 
 #### Jurado
 * Una vez finalizada la fase de programación los equipos serán llamados [al azar](http://www.random.org/lists/) a hacer una presentación/demostración de **5** minutos a los otros equipos. También dispondrán de **5** minutos para resolver las preguntas que le pueda plantear el jurado.
@@ -72,7 +74,7 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
 * Los participantes deberán traer sus propios ordenadores y el material que necesiten oportuno para realizar sus proyectos.
 * No existe ningún tipo de limitación en el uso de material hardware.
 * IBM aportará una **Raspberry Pi 2** y una **SD Card** a cada equipo que realice su desarrollo sobre la plataforma Bluemix.
-
+* Cajamar aportará un **Kit de IoT Cajamar** a cada equipo.
 
 La Organización se reserva el derecho a alterar o modificar las bases del evento.
 
@@ -82,10 +84,12 @@ Organiza
 
 Colabora
 --------
-* [Geekia](http://www.geekia.es)
+
 * [UNIA](http://unia.ual.es) 
 * [Guadatech](http://guadatech.blogspot.com.es)
 * [Escuela de Arte de Almería](http://www.eaalmeria.es)
+* [Universidad de Almería](http://ual.es)
+* [Indalo3D](http://www.indalo3d.com/)
 
 
 Patrocinadores
@@ -101,3 +105,10 @@ Patrocinadores
 ### MicroPatrocinios
 * [Raspberry Pi](http://raspberrypi.org)
 * [littleBits](http://littlebits.cc/)
+* [BooleanBite](http://booleanbite.com/)
+* [Bobomb3d](https://twitter.com/bobomb3d)
+
+### Media Partners
+* [CineJoven](http://cinejoven.es)
+* [Geekia](http://www.geekia.es)
+* [Carmona&Croce](http://marianocarmona.com) 
