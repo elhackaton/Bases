@@ -71,7 +71,7 @@ y para contenido, de ser necesaria una licencia diferente, [CC BY 4.0](https://c
 
 
 #### Material
-* Los participantes deberán traer sus propios ordenadores y el material que necesiten oportuno para realizar sus proyectos.
+* Los participantes deberán traer sus propios ordenadores y el material que necesiten para realizar sus proyectos.
 * No existe ningún tipo de limitación en el uso de material hardware.
 * IBM aportará una **Raspberry Pi 2** y una **SD Card** a cada equipo que realice su desarrollo sobre la plataforma Bluemix.
 * Cajamar aportará un **Kit de IoT Cajamar** a cada equipo.
